@@ -1,5 +1,3 @@
-module Git
-  module Authors
-    VERSION = "0.0.1"
-  end
+module GitAuthors
+  VERSION = "0.0.1"
 end

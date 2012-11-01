@@ -5,12 +5,12 @@ require 'git-authors/version'
 
 Gem::Specification.new do |gem|
   gem.name          = "git-authors"
-  gem.version       = Git::Authors::VERSION
+  gem.version       = GitAuthors::VERSION
   gem.authors       = ["Chase Stubblefield"]
   gem.email         = ["chasestubblefield@gmail.com"]
-  gem.description   = %q{TODO: Write a gem description}
-  gem.summary       = %q{TODO: Write a gem summary}
-  gem.homepage      = ""
+  gem.description   = %q{Manage multiple authors with ease}
+  gem.summary       = %q{Manage multiple authors with ease}
+  gem.homepage      = "https://github.com/chasestubblefield/git-authors"
 
   gem.files         = `git ls-files`.split($/)
   gem.executables   = gem.files.grep(%r{^bin/}).map{ |f| File.basename(f) }

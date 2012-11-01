@@ -1,7 +1,5 @@
 require "git-authors/version"
 
-module Git
-  module Authors
-    # Your code goes here...
-  end
+module GitAuthors
+  # Your code goes here...
 end
