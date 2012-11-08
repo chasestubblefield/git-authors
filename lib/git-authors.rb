@@ -1,5 +1,5 @@
-require "git-authors/version"
+require 'git-authors/version'
+require 'git-authors/config'
 
 module GitAuthors
-  # Your code goes here...
 end
