@@ -1,4 +1,4 @@
-[![Build Status](https://secure.travis-ci.org/chasestopher/git-authors.png)](http://travis-ci.org/chasetopher/git-authors)
+[![Build Status](https://travis-ci.org/chasetopher/git-authors.svg?branch=master)](https://travis-ci.org/chasetopher/git-authors)
 
 git-authors
 ===========
